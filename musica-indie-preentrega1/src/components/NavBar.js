@@ -16,9 +16,9 @@ function NavBar() {
             <Nav.Link href="#logearse">Logearse</Nav.Link>
             <Nav.Link href="#registrarse">Registrarse</Nav.Link>
           </Nav>
+          <CartWigdet></CartWigdet>
         </Container>
       </Navbar>
-      {CartWigdet()}
     </>
   );
 }

@@ -1,7 +1,7 @@
 
 function ItemListContainer (props){
     return (
-        <h3>{props.greeting}</h3>
+        <h3 className="texto-greeting">{props.greeting}</h3>
     )
 }
 

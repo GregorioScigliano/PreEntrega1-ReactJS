@@ -47,3 +47,16 @@
     100% {
       color: black; } 
 }
+
+.texto-greeting{
+    font-family: "poppins", sans-serif;
+    padding:20px;
+    font-weight: bolder;
+    text-decoration: underline red 10px;
+}
+
+.carrito-texto{
+    padding: 20px;
+    color: white;
+    font-family: "poppins", sans-serif;
+}
